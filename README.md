@@ -1,1 +1,1 @@
-A Deep Learning model is depolyed using Streamlit for predicting the trend of a company or product stock's price based on the market history. The model uses Graph Neural Network to determine the correlation between historic data and concurrrent data.
+A Deep Learning model is depolyed using Streamlit for predicting the trend of a company or product stock's price based on the market history. The model uses Graph Neural Network to determine the correlation between historic data and concurrent data.
